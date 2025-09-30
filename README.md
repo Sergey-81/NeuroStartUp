@@ -9,3 +9,13 @@ git commit -m "Initial commit"
 git remote add origin https://github.com/Sergey-81/NeuroStartUp.git
 git branch -M main
 git push -u origin main
+
+## Список клиентов
+Мы на столько крутые, что уже успели поработать со следующими компаниями:
+
+- ООО «Рога и копыта»
+- Издательство «Читый лист» 
+- Космопорт «Черезтерновый Кзвёздный»
+- Дизайн-студия имени Слишком Известного Персонажа
+
+Нас можно найти в [google.com](https://google.com).
